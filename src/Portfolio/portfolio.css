@@ -7,7 +7,11 @@ body, h1, h2, p, blockquote, footer, header, nav, ul, li {
 body {
     font-family: Arial, sans-serif;
     background-color: #f7f7f7;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Apply box shadow to the entire body */
+    margin: 0;
+    padding: 0;
 }
+
 
 header {
     background-color: #ff0066;
